@@ -1,0 +1,57 @@
+.maha{
+    position:relative;
+    top:10px;
+    font-size: 25px;
+    color: white;
+}
+.caption{
+    position: relative;
+   font-size: 20px;
+   top: 100px;
+   color: white;
+  
+
+}
+.home{
+position: absolute;
+top: 7px;
+right: 100px;
+font-size: 25px;
+color: white;
+}
+.home:hover{
+letter-spacing: 5px;
+  background-color: rgb(175, 165, 173);
+  }
+.icon{
+    position: absolute; 
+    top: 13px;
+    height: 30px;
+    width: 30px;
+    left: 250px;
+    bottom: 30px;
+    border-radius: 50px;
+   }
+
+table {
+border-spacing: 5px;
+box-shadow: 5px 8px 8px 5px #888888; 
+margin-top: 100px;
+}
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+text-align: center;
+color: white;
+}
+th, td {
+padding: 25px 10px 25px 10px;
+}
+table th{
+    background-color: aquamarine;
+    color: black;
+}
+@media (min-width:768px)
+ {
+    
+}
